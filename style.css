@@ -1,0 +1,48 @@
+ body {
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+        }
+        h1 {
+    
+            font-weight: bold;
+            color: #13293D;
+        }
+        h2 {
+            margin-top: 20px;
+        }
+        #mission-statement {
+            color: #13293D;
+        }
+        #upcoming-events {
+            color: #13293D;
+            background-color: #E8F1F2;
+        }
+        #contact {
+            color: #13293D;
+        }
+        .outdoor {
+            
+            padding: 5px;
+        }
+        .date {
+            font-weight: bold;
+            color: rgb(255, 81, 81);
+        }
+        .section {
+            background-color: #f8f3f3;
+            padding: 10px;
+        }
+
+        div{
+    width: 75%;
+    padding: 5%;
+    background-color: #247BA0;
+    margin: 0 auto;
+    border-radius: 15px;
+    color: #ffffff;
+    font-family: 'Actor', sans-serif;
+}
+
+.azulzinho{
+    color: #1B98E0;
+}
